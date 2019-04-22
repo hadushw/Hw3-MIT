@@ -1,2 +1,2 @@
-# Hw3-MIT
+# MIT
 Simple practice
